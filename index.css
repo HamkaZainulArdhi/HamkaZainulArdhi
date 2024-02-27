@@ -492,8 +492,9 @@ footer .credit a {
 
   .menu .row .menu-card img {
     width: 70%;
-    margin: 5.5rem;
-    margin-bottom: 0.5rem;
+    margin: 5rem;
+    margin-bottom: 0rem;
+    margin-left: 2rem;
   }
 
   .contact .row {
