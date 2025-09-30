@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2800&pause=600&center=true&vCenter=true&width=650&lines=Hey+what's+up+coder+%F0%9F%91%8B;+I'm+Hamka+Zainul+Ardhi;Developer+Junior+%7C+Web Developer;Chasing+knowledge+and+sharing+creations+things" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/HamkaZainulArdhi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/HamkaZainulArdhi?style=flat&label=Followers"></a>
