@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/HamkaZainulArdhi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/HamkaZainulArdhi?style=flat&label=Followers"></a>
   <a href="https://github.com/HamkaZainulArdhi"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=HamkaZainulArdhi&style=flat"></a>
-  <a href="https://www.linkedin.com/in/muhammad-haikal-faruq-923b62336/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hamka-zainulardhi-b470b829b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:HamkaZainulArdhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-orange"></a>
 </p>
 
@@ -86,7 +86,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamkaZainulArdhi&theme=default" />
 </p>
 
@@ -100,7 +100,12 @@
   <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamkaZainulArdhi&theme=default" /></td>
   <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HamkaZainulArdhi&theme=default&utcOffset=8" /></td>
 </tr>
-</table>
+</table> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D profile contributions"/>
+</p>
 
 
 
