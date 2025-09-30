@@ -1,4 +1,5 @@
-
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=90&pause=800&color=1A237E&center=true&vCenter=true&width=2000&height=200&lines=I+am+Hamka+Zainardhi;WEB+DEVELOPER;DEVELOPER+JR;Student+Of+Telkom+Univeristy)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/HamkaZainulArdhi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/HamkaZainulArdhi?style=flat&label=Followers"></a>
@@ -6,6 +7,12 @@
   <a href="https://www.linkedin.com/in/muhammad-haikal-faruq-923b62336/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:HamkaZainulArdhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-orange"></a>
 </p>
+
+### 🧠 Who Am I?
+
+<p align="justify">👨🏻‍💻 I’m a Junior Web Developer and an undergraduate student, passionate about crafting modern web experiences with clean code and thoughtful design ✨.</p>
+
+<p align="justify">I see every project as an opportunity to grow and to bring ideas into impactful digital products. Beyond coding, I value collaboration, continuous learning, and sharing knowledge ⚡. My journey is about building not just software, but a meaningful career in tech 🚀.</p>
 
 ---
 
@@ -80,5 +87,24 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamkaZainulArdhi&radius=8&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamkaZainulArdhi&theme=default" />
 </p>
+
+
+<table align="center">
+<tr>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamkaZainulArdhi&theme=default" /></td>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HamkaZainulArdhi&theme=default" /></td>
+</tr>
+<tr>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamkaZainulArdhi&theme=default" /></td>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HamkaZainulArdhi&theme=default&utcOffset=8" /></td>
+</tr>
+</table>
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
