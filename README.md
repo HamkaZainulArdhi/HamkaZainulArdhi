@@ -1,8 +1,8 @@
 
 <p align="center">
   <img src="./kiss.gif" alt="3D profile contributions" alt="3D profile contributions"
-       width="800"
-      height="450"
+       width="700"
+      height="350"
        />
 </p>
 
