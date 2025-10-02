@@ -1,4 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+
+<p align="center">
+  <img src="./cf4770ccf8454872d8f9a3e046cc243d_720w.gif" alt="3D profile contributions"/>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=90&pause=800&color=1A237E&center=true&vCenter=true&width=2000&height=200&lines=I+am+Hamka+Zainardhi;WEB+DEVELOPER;DEVELOPER+JR;Student+Of+Telkom+Univeristy)](https://git.io/typing-svg)
 
 <p align="center">
